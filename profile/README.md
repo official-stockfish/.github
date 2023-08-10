@@ -18,9 +18,5 @@ A free and strong UCI chess engine.
   <a href="https://github.com/official-stockfish/Stockfish/wiki/Developers#participating-in-the-project">Getting Started</a>
 </div>
 
-<h3 align="center">
-<a href="https://discord.gg/GWDRS3kU6R"><i>Get involved!</i></a>
-</h3>
-
 [stockfish128-logo]: https://stockfishchess.org/images/logo/icon_128x128.png
 [website-link]: https://stockfishchess.org
