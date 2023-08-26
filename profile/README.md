@@ -1,9 +1,3 @@
-<div align="center">
-
-[![Stockfish][stockfish128-logo]][website-link]
-
-</div>
-
 <h1 align="center">
 Stockfish
 </h1>
